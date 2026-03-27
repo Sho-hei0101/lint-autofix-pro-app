@@ -1,4 +1,4 @@
-# Lint Autofix Pro
+# Lint Autofix Pro 
 
 **ESLint + Prettier autofix for pull requests.**
 Fixes what’s safely fixable and **always reports required CI checks** so PRs never get stuck (`CI/check`, `CI/autofix`).
